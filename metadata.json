@@ -1,0 +1,6 @@
+{
+  "name": "AURA",
+  "description": "Personal Jarvis-inspired AI assistant for college coursework, two-way voice conversation, task autopilot, and focus sessions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
